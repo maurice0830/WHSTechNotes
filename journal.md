@@ -77,5 +77,13 @@ To address security concerns while operating globally, companies like TikTok cou
 If I were a developer at TikTok, I would focus on building features that enhance user trust. For example, implementing a “Privacy Dashboard” would allow users to see and control how their data is used in real time. This would not only empower users but also showcase TikTok’s commitment to ethical practices.
 This situation underscores the importance of balancing innovation and security. For developers, the lesson is clear: prioritize ethical design and privacy compliance. By fostering transparency and accountability, tech companies can create a sustainable and secure environment for global users.
 Let me know if you’d like to adjust or expand this!
+# january 27, 2025 
 
-
+    
+    | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    |honda   |  drilled hole in gas tank       |
+    | Kayla    |toyota     | fixed wrong problem    |
+    | Bart     | subaru    | left stain        |
+    | Harrison |  gmc   |     left oil cap off    
+\
