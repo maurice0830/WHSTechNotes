@@ -107,3 +107,5 @@ However, integrating slang translation tools into educational resources presents
 | Silver  |    Shapeshifting   |           |
 | Tangier |       |           |
 
+# March 17, 2025
+“I primarily used TV as my main form of technology during spring break. It provided entertainment and a way to relax after a busy semester. Watching different shows and movies helped me unwind, and in some cases, I even learned new things from documentaries or educational content. Streaming services made it easy to access a variety of content whenever I wanted, which was convenient
