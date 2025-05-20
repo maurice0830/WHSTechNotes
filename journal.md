@@ -134,3 +134,6 @@ The “Chromebook Challenge” is not ethical, and it highlights the importance 
 Some people may say it’s “just a joke,” but the real-world consequences are no laughing matter. For example, if a Chromebook catches fire due to tampering, it could injure students or cause costly damage to school property. More importantly, these actions reflect poor digital citizenship—using technology in ways that harm instead of help. Just like we wouldn’t play with fire or damage someone else’s property for fun, we shouldn’t misuse tech either. Our responsibility is to use school technology wisely, follow rules, and set a positive example for others, because how we treat technology today shapes the kind of digital world we’ll live in tomorrow.
 
 
+# May 19, 2025
+I’m so excited that summer is finally here! It’s the best time of the year—no school, sunny days, and lots of time to relax and have fun. I’ve been looking forward to this for months. There’s just something about summer that makes everything feel lighter and easier. I can’t wait to sleep in, hang out with friends, and enjoy the nice weather. Everything is… great. Really, it is. And even if it isn’t perfect all the time, I mean—who doesn’t love summer?
+
